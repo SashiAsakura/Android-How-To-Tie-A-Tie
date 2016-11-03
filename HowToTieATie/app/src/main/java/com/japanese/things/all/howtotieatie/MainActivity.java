@@ -18,6 +18,13 @@ import android.view.ViewGroup;
 
 import android.widget.TextView;
 
+/*
+* Best English app: https://play.google.com/store/apps/details?id=com.artelplus.howtotie
+* Only Japanese app: https://play.google.com/store/apps/details?id=info.pso.necktie&hl=en
+* Tying instruction website: http://www.ties.com/how-to-tie-a-tie/murrell
+*
+* */
+
 public class MainActivity extends AppCompatActivity {
 
     /**
