@@ -19,6 +19,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /*
+* Android app forum: http://forums.makingmoneywithandroid.com/android-development/11259-anybody-make-living-personal-android-projects-4.html
 * Best English app: https://play.google.com/store/apps/details?id=com.artelplus.howtotie
 * Only Japanese app: https://play.google.com/store/apps/details?id=info.pso.necktie&hl=en
 * Tying instruction website: http://www.ties.com/how-to-tie-a-tie/murrell
