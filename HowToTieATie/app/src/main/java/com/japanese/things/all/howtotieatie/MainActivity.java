@@ -23,6 +23,7 @@ import android.widget.TextView;
 * Best English app: https://play.google.com/store/apps/details?id=com.artelplus.howtotie
 * Only Japanese app: https://play.google.com/store/apps/details?id=info.pso.necktie&hl=en
 * Tying instruction website: http://www.ties.com/how-to-tie-a-tie/murrell
+* FragmentPagerAdaptor tutorial: https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter
 *
 * */
 
@@ -123,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             TextView textView = (TextView) rootView.findViewById(R.id.section_label);
-            textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
+            //textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
             return rootView;
         }
     }
